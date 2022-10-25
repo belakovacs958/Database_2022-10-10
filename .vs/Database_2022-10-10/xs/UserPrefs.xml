@@ -1,13 +1,8 @@
-﻿<Properties StartupConfiguration="{39091327-F479-4E05-9D91-210627A5DA1F}|Default">
-  <MonoDevelop.Ide.ItemProperties.Database__2022-10-10 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{39091327-F479-4E05-9D91-210627A5DA1F}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Database_2022-10-10/Program.cs">
     <Files>
-      <File FileName="Database_2022-10-10/Program.cs" Line="51" Column="2" />
+      <File FileName="Database_2022-10-10/Program.cs" Line="147" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +17,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Database__2022-10-10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

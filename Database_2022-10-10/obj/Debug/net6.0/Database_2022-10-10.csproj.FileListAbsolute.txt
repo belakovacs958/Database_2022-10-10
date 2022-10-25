@@ -33,3 +33,38 @@
 /Volumes/T7 Touch/suli/Database_2022-10-10/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.pdb
 /Volumes/T7 Touch/suli/Database_2022-10-10/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.genruntimeconfig.cache
 /Volumes/T7 Touch/suli/Database_2022-10-10/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/ref/Database_2022-10-10.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Database_2022-10-10
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Database_2022-10-10.deps.json
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Database_2022-10-10.runtimeconfig.json
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Database_2022-10-10.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Database_2022-10-10.pdb
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Google.Protobuf.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/MySql.Data.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/ZstdNet.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/System.Drawing.Common.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/System.Security.Permissions.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.csproj.AssemblyReference.cache
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.AssemblyInfoInputs.cache
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.AssemblyInfo.cs
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.csproj.CoreCompileInputs.cache
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.csproj.CopyComplete
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/refint/Database_2022-10-10.dll
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.pdb
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/Database_2022-10-10.genruntimeconfig.cache
+/Volumes/T7/VisualStudioProjects/Database_2022-10-10/Database_2022-10-10/obj/Debug/net6.0/ref/Database_2022-10-10.dll
